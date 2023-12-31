@@ -1,7 +1,7 @@
 {
   "name": "swayam-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/Swayam1956",
+  "homepage": "https://github.com/SwayamV1956",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

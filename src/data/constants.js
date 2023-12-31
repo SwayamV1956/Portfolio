@@ -69,7 +69,7 @@ export const skills = [
     ],
   },
   {
-    title: "Others",
+    title: "Tools",
     skills: [
       {
         name: "Adobe XD",
