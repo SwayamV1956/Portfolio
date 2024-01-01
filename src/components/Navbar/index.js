@@ -23,10 +23,10 @@ const Navbar = () => {
           }} />
         </MobileIcon>
         <NavItems>
-          <NavLink href="#about">About</NavLink>
-          <NavLink href='#skills'>Skills</NavLink>
-          <NavLink href='#projects'>Projects</NavLink>
-          <NavLink href='#education'>Education</NavLink>
+          <a href="#about">About</a>
+          <a href='#skills'>Skills</a>
+          <a href='#projects'>Projects</a>
+          <a href='#education'>Education</a>
         </NavItems>
         <ButtonContainer>
           <GitHubButton href={Bio.github} target="_blank">Github Profile</GitHubButton>
